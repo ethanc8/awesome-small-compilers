@@ -35,6 +35,13 @@ Although it only supports x86_64, chibicc is probably the most well-documented -
   * ISAs (experimental): x86_64, ARM
   * Written in C99
 
+## Transpilers
+
+* [Cake](http://thradams.com/cake/index.html) - C23 to C99 transpiler
+  * Also implements some WG14 proposals and some of its own extensions
+  * Has an ownership, nullability, etc checker
+  * [HN discussion](https://news.ycombinator.com/item?id=32823118)
+
 ## Small non-optimizing compilers
 
 * [TenDRA tdfc2](http://www.tendra.org/) - implements all of C90 and C++98, TenDRA IR backend
