@@ -41,6 +41,8 @@ Although it only supports x86_64, chibicc is probably the most well-documented -
   * Also implements some WG14 proposals and some of its own extensions
   * Has an ownership, nullability, etc checker
   * [HN discussion](https://news.ycombinator.com/item?id=32823118)
+* [Pnut](https://pnut.sh/#about-section) - C to POSIX `sh` transpiler
+  * [HN discussion](https://news.ycombinator.com/item?id=41052446)
 
 ## Small non-optimizing compilers
 
