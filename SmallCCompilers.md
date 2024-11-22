@@ -68,6 +68,10 @@ Although it only supports x86_64, chibicc is probably the most well-documented -
   * Platforms: pc86, linux386, linux68k, linuxppc, linuxmips, cpm, rpi (VideoCore IV), pdpv7, msdos86 and msdos386
   * Frontends: ANSI C, B, Pascal and Modula-2
   * Written in C90
+* [Headerless C Compiler](https://github.com/PascalBeyer/Headerless-C-Compiler) - implements most of C11
+  * OSes: Windows (MSVC ABI)
+  * Imitates MSVC
+  * Has `__asm__` support
 * Plan 9 C compiler - near-C90 compiler
   * Overview articles
     * [How to Use the Plan 9 C Compiler](https://p9f.org/sys/doc/comp.html)
